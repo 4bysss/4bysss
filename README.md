@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/4bysss/4bysss/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
