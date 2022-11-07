@@ -1,4 +1,4 @@
-<h2 align="left">Trying to code better I guess...</h2>
+<h2 align="left">Computer science stududent, machine learning lover and more thing yet to discover...</h2>
 
 ###
 
