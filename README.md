@@ -38,11 +38,7 @@
   <img src="https://profile-counter.glitch.me/4bysss/count.svg?"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
 
 ###
 
