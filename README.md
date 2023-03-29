@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I'm currently working on SRGAN for 3D brain ultrasounds.<br>🌱 I'm currently learning about ML libraries like Pytorch and Tensorflow.
+🧠 I'm currently working on a SRGAN for 3D brain ultrasounds.<br>🌱 I'm currently learning about ML libraries like Pytorch and Tensorflow.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4bysss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4bysss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=4bysss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=4bysss&icon=0&color=1)](https://visitcount.itsvg.in)
