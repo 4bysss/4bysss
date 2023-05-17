@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I'm currently working on a SRGAN for 3D brain ultrasounds.<br>🌱 I'm currently learning about ML libraries like Pytorch and Tensorflow.
+🧠 I'm currently working on a SRGAN for 3D brain ultrasounds.<br>🌱 I'm currently learning about ML libraries like Pytorch and Tensorflow.<br>🔒 I'm currently taking a reversing course.
 
 
 ## 🌐 Socials:
