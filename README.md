@@ -87,23 +87,6 @@ A personal Android project used to explore real-world application architecture, 
 
 I care about understanding the system behind a task, making informed technical decisions and leaving code that another developer can maintain without guessing how it works.
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<!-- Generated daily by .github/workflows/profile-art.yml using GitHub's API. -->
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F4bysss%2F4bysss%2Foutput%2Fcontrib-endpoint.json&style=for-the-badge" alt="Contributions in the last year" />
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F4bysss%2F4bysss%2Foutput%2Ffollowers-endpoint.json&style=for-the-badge" alt="Followers" />
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F4bysss%2F4bysss%2Foutput%2Frepos-endpoint.json&style=for-the-badge" alt="Public repositories" />
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F4bysss%2F4bysss%2Foutput%2Fyears-endpoint.json&style=for-the-badge" alt="Years on GitHub" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=4bysss&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4bysss&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
-</picture>
-
-</div>
-
 ## 🕹️ Pac-Man contribution graph
 
 <div align="center">
