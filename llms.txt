@@ -1,0 +1,31 @@
+# Abel García Pascual
+
+> Software Engineer in Spain focused on enterprise Java development, Kotlin/Android projects and secure software engineering.
+
+## Core profile
+
+- Develops and maintains enterprise applications with Java 17, Spring Boot, Angular and Oracle.
+- Participates in requirements analysis, technical design, implementation, testing, deployment and production troubleshooting.
+- Works with REST APIs, JPA/Hibernate, complex Oracle SQL, searches, data processing, statistics and exports.
+- Develops personal Android projects with Kotlin, Jetpack Compose and Media3/ExoPlayer.
+- Computer Engineering graduate with a Master's degree in Cybersecurity.
+- Values software that is understandable, maintainable, reliable and safe to change.
+
+## Selected project
+
+- UnderAnime Rebirth: Kotlin/Jetpack Compose Android application with multimedia playback, progress persistence, resume support, full-screen playback, remote update checks and automated GitHub releases. Source code is private; releases are public.
+
+## Target opportunities
+
+- Java Backend / Software Engineer
+- Full-stack Java and Angular
+- Kotlin / Android development
+- Secure Software Engineering / Application Security
+- Remote and international roles
+
+## Links
+
+- GitHub: https://github.com/4bysss
+- LinkedIn: https://www.linkedin.com/in/abysss/
+- Public releases: https://github.com/4bysss/UnderAnimeRebirth-Releases
+- Structured agent profile: https://github.com/4bysss/4bysss/blob/main/AGENTS.md
